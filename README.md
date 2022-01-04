@@ -22,7 +22,26 @@
 
 ### Languages and Tools:
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![PHP](https://img.icons8.com/color/30/php.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![SASS](https://img.icons8.com/color/30/sass.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Bitbucket](https://img.icons8.com/color/30/bitbucket.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![VueJS](https://img.icons8.com/color/30/vue-js.png)![Flutter](https://img.icons8.com/color/30/flutter.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![AngularJS](https://img.icons8.com/color/30/angularjs.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)![Console](https://img.icons8.com/color/30/console.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png)
+![CSS3](https://img.icons8.com/color/30/css3.png)
+![JavaScript](https://img.icons8.com/color/30/javascript.png)
+![NodeJS](https://img.icons8.com/color/30/nodejs.png)
+![SQL](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)
+![MySQL](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png)
+![MongoDB](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png)
+![Python](https://img.icons8.com/color/48/000000/python--v1.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
+![Docker](https://img.icons8.com/color/48/000000/docker.png)
+![kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png)
+![NPM](https://img.icons8.com/color/30/npm.png)
+![Github](https://img.icons8.com/material-outlined/30/github.png)
+![Git](https://img.icons8.com/color/30/git.png)
+![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+![ReactJS](https://img.icons8.com/color/30/react-native.png)
+![Windows](https://img.icons8.com/color/30/windows-10.png)
+![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)
+![Linux](https://img.icons8.com/color/30/linux.png)
+![Terminal](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png")
 
 <br />
 <br />
