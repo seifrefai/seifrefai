@@ -9,9 +9,9 @@
 - 🎓 I just Graduated with a Bachelors Degree in Computer Science
 - 🔭 I am looking to pursue a career in Software Engineering
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Land a Software Engineering Job
-- ⚡ Fun fact: I love to play soccer and travel.
+- ⚡ Fun fact: I love to play soccer and travel
 
 ### Connect with me:
 
