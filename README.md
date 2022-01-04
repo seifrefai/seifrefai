@@ -6,7 +6,7 @@
 
 ## I'm a Husband, Data Analyst, and Developer!!
 
-- 🎓 I just Graduated with a Bachelors Degree in Computer Science
+- 🎓 I just Graduated with a Bachelors Degree in Computer Science (GSU Class 2021)
 - 🔭 I am looking to pursue a career in Software Engineering
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
