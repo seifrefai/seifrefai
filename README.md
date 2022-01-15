@@ -2,9 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seifeldin-refei-114301190/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Data+Analyst;Upcoming+Software+Engineer;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Engineer;Data+Analyst;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-## I'm a Data Analyst, and an upcoming Developer!!
+## I'm a Software Engineer, and a Data Analyst!!
 
 - 🎓 I just Graduated with a Bachelors Degree in Computer Science (GSU Class 2021)
 - 🔭 I am looking to pursue a career in Software Engineering
