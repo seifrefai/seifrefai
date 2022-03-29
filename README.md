@@ -4,13 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Engineer;Data+Analyst;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-## I'm a Software Engineer, and a Data Analyst!!
+## I'm a Data Engineer, and a Data Analyst!!
 
-- 🎓 I just Graduated with a Bachelors Degree in Computer Science (GSU Class 2021)
-- 🔭 I am looking to pursue a career in Software Engineering
+- 🎓 I Graduated with a Bachelors Degree in Computer Science 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Land a Software Engineering Job
 - ⚡ Fun fact: I love to play soccer and travel
 
 ### Connect with me:
